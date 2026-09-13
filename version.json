@@ -1,1 +1,4 @@
-{ "versao": "1.8.2" }
+{
+  "versao": "2.0.0",
+  "zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.0.0.zip"
+}
