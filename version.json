@@ -1,4 +1,12 @@
 {
-  "versao": "2.0.0",
-  "zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.0.0.zip"
+  "versao": "2.0.1",
+  "zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.0.1-transicao.zip",
+  "telas_versao": "2.1.0",
+  "telas_zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.1.0.zip",
+  "apk_versao": "2.1.0",
+  "apk_version_code": 21003,
+  "apk_url": "https://github.com/canaltelavip/telavip-app/releases/download/v2.1.0/TelaVipSuper.apk",
+  "apk_sha256": "94bd1fe18ca7e3a2a55d23f2a3815241e58702b0e4dc189df902785b90fa0001",
+  "apk_obrigatorio": false,
+  "apk_mensagem": "Nova versão 2.1.0 disponível. Ela traz o player VLC interno, melhor compatibilidade com TVs e correções de reprodução. Seus favoritos, ativação e configurações serão mantidos."
 }
