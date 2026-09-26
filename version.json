@@ -1,11 +1,15 @@
 {
   "versao": "2.0.1",
   "zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.0.1-transicao.zip",
-  "telas_versao": "2.1.2",
-  "telas_zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.1.2-hotfix-tv.zip",
-  "apk_versao": "2.1.1",
-  "apk_version_code": 21004,
-  "apk_url": "https://github.com/canaltelavip/telavip-app/releases/download/v2.1.1/TelaVipSuper.apk",
-  "apk_sha256": "84fde393e911d631ab57b463ad1f50d3d133ffe01f96c74e3463e91d57dc1bbf",
-  "apk_obrigatorio": false
+
+  "telas_versao": "3.0.0",
+  "telas_zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v3.0.0.zip",
+
+  "apk_versao": "3.0.0",
+  "apk_version_code": 30005,
+  "apk_url": "https://github.com/canaltelavip/telavip-app/releases/download/v3.0.0/TelaVipSuper.apk",
+  "apk_sha256": "b21311906b05339f183c410f9b671df0de1f03509dbbc2e2c231384f710b9300",
+  "apk_obrigatorio": false,
+
+  "apk_mensagem": "TelaVip Super 3.0.0 disponível. Esta atualização traz novo painel integrado, melhorias de reprodução, troca rápida de servidores e aprimoramentos de desempenho."
 }
