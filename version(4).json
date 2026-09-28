@@ -1,0 +1,11 @@
+{
+  "versao": "2.0.1",
+  "zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v2.0.1-transicao.zip",
+  "telas_versao": "3.0.2",
+  "telas_zip": "https://raw.githubusercontent.com/canaltelavip/telavip-app/main/app-v3.0.2.zip",
+  "apk_versao": "2.1.1",
+  "apk_version_code": 21004,
+  "apk_url": "https://github.com/canaltelavip/telavip-app/releases/download/v2.1.1/TelaVipSuper.apk",
+  "apk_sha256": "84fde393e911d631ab57b463ad1f50d3d133ffe01f96c74e3463e91d57dc1bbf",
+  "apk_obrigatorio": false
+}
